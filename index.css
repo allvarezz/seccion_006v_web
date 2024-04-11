@@ -11,3 +11,19 @@ body{
     width: 500px;
     height: 650px;
 }
+
+.btn_ver{
+    color: white;
+    background-color: blue;
+    padding: 1%;
+    border-radius: 20%;
+    list-style: none;
+    text-decoration: none;
+    margin-bottom: 5%;
+}
+.btn_ver:hover{
+    background-color: rgb(35, 35, 214);
+}
+.btn_ver:active{
+    background-color: green;
+}
